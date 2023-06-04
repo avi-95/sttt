@@ -1,0 +1,37 @@
+            Uber pick Analysis Report For the Month of April 2014
+
+1) On what date did we see the most number of Uber pickups?
+   Date with the highest number of pickups: 2014-04-30
+
+2) How many Uber pickups were made on the date with the highest number of pickups?
+   Number of Uber pickups on the highest pickup date: 36251
+
+3) How many unique TLC base companies are affiliated with the Uber pickups in the dataset?
+   There are 5 Unique Base
+
+4) Which TLC base company had the highest number of pickups?
+   TLC base  with the highest number of pickups: B02682
+
+5) How many Uber pickups were made at each unique TLC base company?
+   Base Pickup Counts
+   Base
+    B02512     35536
+    B02598    183263
+    B02617    108001
+    B02682    227808
+    B02764      9908
+
+6) Can you determine the busiest time of day for Uber pickups based on the date/time column?
+   Hour with the highest number of pickups: 5 PM
+
+7) Can you create a visualization (e.g., a bar chart or line plot) to represent the number of Uber pickups over time?
+   By Analyzing Line plot We have observed that most Number of pickup counts Dated on  "2014-04-30"
+
+8) Can you create a scatter plot to visualize the distribution of Uber pickups based on latitude and longitude?
+   By Analyzing scatter plot we have observed that with the highest number of pickups Base is  "B02682"
+
+9)  Can you create a bar chart to compare the number of Uber pickups for each TLC base company?
+    By Analyzing Bar Chart  we have observed that Base " B02682 227808" as the most Number of Bookings
+
+10) Can you create a pie chart to display the percentage distribution of Uber pickups for each day of the week?
+    By Analyzing Pie Chart we have observed that Wednesday has the Highest percentage of Distribution
